@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Example file for assignment. Modifying the changes in G24AIT149 branch.
-=======
 Completely replacing the contents in G24AIT147 branch.
->>>>>>> G24AIT147
